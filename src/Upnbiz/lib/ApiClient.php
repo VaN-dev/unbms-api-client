@@ -1,6 +1,6 @@
 <?php
 
-namespace src;
+namespace Upnbiz\lib;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
